@@ -2,15 +2,11 @@
 
 This project focuses on building a fake news detection system using machine learning. The dataset used for training and testing contains labeled news articles, indicating whether they are "FAKE" or "REAL."
 
-## Requirements
-- Python 3.x
-- Libraries: numpy pandas, scikit-learn, seaborn, matplotlib, wordcloud (for visualizations)
-
-## Project Structure
+# Project Structure
 - fake_news_detection.ipynb: Jupyter Notebook containing the complete code for the project.
 - news.csv: Dataset file containing labeled news articles.
 
-## Workflow
+# Workflow
 1. Data Loading and Exploration
    - Load the dataset using pandas.
    - Explore the dataset to understand its structure and characteristics.
